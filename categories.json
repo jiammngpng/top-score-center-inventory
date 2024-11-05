@@ -1,0 +1,301 @@
+[
+  {
+    "_id": "6723712e9778bb08a58eb2dd",
+    "name": "Writing Tools",
+    "description": "Tools used for writing.",
+    "subcategories": [
+      {
+        "name": "Pens",
+        "categoryId": "6723712e9778bb08a58eb2dd",
+        "items": [],
+        "_id": "6723712e9778bb08a58eb2df"
+      },
+      {
+        "name": "Pencils",
+        "categoryId": "6723712e9778bb08a58eb2dd",
+        "items": [],
+        "_id": "6723712e9778bb08a58eb2e0"
+      },
+      {
+        "name": "Markers",
+        "categoryId": "6723712e9778bb08a58eb2dd",
+        "items": [],
+        "_id": "6723712e9778bb08a58eb2e1"
+      }
+    ],
+    "createdAt": "2024-10-31T11:59:42.835Z",
+    "updatedAt": "2024-10-31T11:59:42.921Z",
+    "__v": 1
+  },
+  {
+    "_id": "672373199778bb08a58eb2e4",
+    "name": "Services",
+    "description": "Various services available.",
+    "subcategories": [
+      {
+        "name": "ID Lamination",
+        "categoryId": "672373199778bb08a58eb2e4",
+        "items": [],
+        "_id": "672373199778bb08a58eb2e6"
+      },
+      {
+        "name": "Photocopy",
+        "categoryId": "672373199778bb08a58eb2e4",
+        "items": [],
+        "_id": "672373199778bb08a58eb2e7"
+      },
+      {
+        "name": "Printing",
+        "categoryId": "672373199778bb08a58eb2e4",
+        "items": [],
+        "_id": "672373199778bb08a58eb2e8"
+      }
+    ],
+    "createdAt": "2024-10-31T12:07:53.643Z",
+    "updatedAt": "2024-10-31T12:07:53.727Z",
+    "__v": 1
+  },
+  {
+    "_id": "672373379778bb08a58eb2eb",
+    "name": "Crafting Materials",
+    "description": "Supplies for various crafting projects.",
+    "subcategories": [
+      {
+        "name": "Craft Paper",
+        "categoryId": "672373379778bb08a58eb2eb",
+        "items": [],
+        "_id": "672373379778bb08a58eb2ed"
+      },
+      {
+        "name": "Stickers",
+        "categoryId": "672373379778bb08a58eb2eb",
+        "items": [],
+        "_id": "672373379778bb08a58eb2ee"
+      },
+      {
+        "name": "Beads",
+        "categoryId": "672373379778bb08a58eb2eb",
+        "items": [],
+        "_id": "672373379778bb08a58eb2ef"
+      },
+      {
+        "name": "Yarn",
+        "categoryId": "672373379778bb08a58eb2eb",
+        "items": [],
+        "_id": "672373379778bb08a58eb2f0"
+      }
+    ],
+    "createdAt": "2024-10-31T12:08:23.692Z",
+    "updatedAt": "2024-10-31T12:08:23.774Z",
+    "__v": 1
+  },
+  {
+    "_id": "672373509778bb08a58eb2f3",
+    "name": "Office Supplies",
+    "description": "Essential supplies for the office and school.",
+    "subcategories": [
+      {
+        "name": "Staplers",
+        "categoryId": "672373509778bb08a58eb2f3",
+        "items": [],
+        "_id": "672373509778bb08a58eb2f5"
+      },
+      {
+        "name": "Paper Clips",
+        "categoryId": "672373509778bb08a58eb2f3",
+        "items": [],
+        "_id": "672373509778bb08a58eb2f6"
+      },
+      {
+        "name": "Rubber Bands",
+        "categoryId": "672373509778bb08a58eb2f3",
+        "items": [],
+        "_id": "672373509778bb08a58eb2f7"
+      }
+    ],
+    "createdAt": "2024-10-31T12:08:48.590Z",
+    "updatedAt": "2024-10-31T12:08:48.669Z",
+    "__v": 1
+  },
+  {
+    "_id": "672373619778bb08a58eb2fa",
+    "name": "Cutting Tools",
+    "description": "Tools for cutting various materials.",
+    "subcategories": [
+      {
+        "name": "Scissors",
+        "categoryId": "672373619778bb08a58eb2fa",
+        "items": [],
+        "_id": "672373619778bb08a58eb2fc"
+      },
+      {
+        "name": "Craft Knives",
+        "categoryId": "672373619778bb08a58eb2fa",
+        "items": [],
+        "_id": "672373619778bb08a58eb2fd"
+      },
+      {
+        "name": "Paper Cutters",
+        "categoryId": "672373619778bb08a58eb2fa",
+        "items": [],
+        "_id": "672373619778bb08a58eb2fe"
+      }
+    ],
+    "createdAt": "2024-10-31T12:09:05.665Z",
+    "updatedAt": "2024-10-31T12:09:05.748Z",
+    "__v": 1
+  },
+  {
+    "_id": "6723737f9778bb08a58eb301",
+    "name": "Papers",
+    "description": "Different types of papers for various needs.",
+    "subcategories": [
+      {
+        "name": "Printer Paper",
+        "categoryId": "6723737f9778bb08a58eb301",
+        "items": [],
+        "_id": "6723737f9778bb08a58eb303"
+      },
+      {
+        "name": "Construction Paper",
+        "categoryId": "6723737f9778bb08a58eb301",
+        "items": [],
+        "_id": "6723737f9778bb08a58eb304"
+      },
+      {
+        "name": "Cardstock",
+        "categoryId": "6723737f9778bb08a58eb301",
+        "items": [],
+        "_id": "6723737f9778bb08a58eb305"
+      },
+      {
+        "name": "Graph Paper",
+        "categoryId": "6723737f9778bb08a58eb301",
+        "items": [],
+        "_id": "6723737f9778bb08a58eb306"
+      }
+    ],
+    "createdAt": "2024-10-31T12:09:35.163Z",
+    "updatedAt": "2024-10-31T12:09:35.246Z",
+    "__v": 1
+  },
+  {
+    "_id": "6723738c9778bb08a58eb309",
+    "name": "Notebooks",
+    "description": "Notebooks for taking notes and drawing.",
+    "subcategories": [
+      {
+        "name": "Spiral Notebooks",
+        "categoryId": "6723738c9778bb08a58eb309",
+        "items": [],
+        "_id": "6723738c9778bb08a58eb30b"
+      },
+      {
+        "name": "Composition Notebooks",
+        "categoryId": "6723738c9778bb08a58eb309",
+        "items": [],
+        "_id": "6723738c9778bb08a58eb30c"
+      },
+      {
+        "name": "Sketchbooks",
+        "categoryId": "6723738c9778bb08a58eb309",
+        "items": [],
+        "_id": "6723738c9778bb08a58eb30d"
+      }
+    ],
+    "createdAt": "2024-10-31T12:09:48.185Z",
+    "updatedAt": "2024-10-31T12:09:48.267Z",
+    "__v": 1
+  },
+  {
+    "_id": "672373989778bb08a58eb310",
+    "name": "Boards",
+    "description": "Various boards for writing and displaying information.",
+    "subcategories": [
+      {
+        "name": "Whiteboards",
+        "categoryId": "672373989778bb08a58eb310",
+        "items": [],
+        "_id": "672373989778bb08a58eb312"
+      },
+      {
+        "name": "Chalkboards",
+        "categoryId": "672373989778bb08a58eb310",
+        "items": [],
+        "_id": "672373989778bb08a58eb313"
+      },
+      {
+        "name": "Cork Boards",
+        "categoryId": "672373989778bb08a58eb310",
+        "items": [],
+        "_id": "672373989778bb08a58eb314"
+      }
+    ],
+    "createdAt": "2024-10-31T12:10:00.359Z",
+    "updatedAt": "2024-10-31T12:10:00.446Z",
+    "__v": 1
+  },
+  {
+    "_id": "672373a99778bb08a58eb317",
+    "name": "Folders",
+    "description": "Folders for organizing documents.",
+    "subcategories": [
+      {
+        "name": "Plastic Folders",
+        "categoryId": "672373a99778bb08a58eb317",
+        "items": [],
+        "_id": "672373a99778bb08a58eb319"
+      },
+      {
+        "name": "Paper Folders",
+        "categoryId": "672373a99778bb08a58eb317",
+        "items": [],
+        "_id": "672373a99778bb08a58eb31a"
+      },
+      {
+        "name": "Expanding Folders",
+        "categoryId": "672373a99778bb08a58eb317",
+        "items": [],
+        "_id": "672373a99778bb08a58eb31b"
+      }
+    ],
+    "createdAt": "2024-10-31T12:10:17.678Z",
+    "updatedAt": "2024-10-31T12:10:17.761Z",
+    "__v": 1
+  },
+  {
+    "_id": "672374009778bb08a58eb33c",
+    "name": "Adhesives",
+    "description": "Various adhesives for projects and packaging.",
+    "subcategories": [
+      {
+        "name": "Packaging Tape",
+        "items": [],
+        "_id": "672378769778bb08a58eb34a"
+      },
+      {
+        "name": "Glue",
+        "items": [],
+        "_id": "672378769778bb08a58eb34b"
+      },
+      {
+        "name": "Glue Sticks",
+        "items": [],
+        "_id": "672378769778bb08a58eb34c"
+      },
+      {
+        "name": "Double-Sided Tape",
+        "items": [],
+        "_id": "672378769778bb08a58eb34d"
+      },
+      {
+        "name": "Mounting Tape",
+        "items": [],
+        "_id": "672378769778bb08a58eb34e"
+      }
+    ],
+    "createdAt": "2024-10-31T12:11:44.440Z",
+    "updatedAt": "2024-10-31T12:11:44.520Z",
+    "__v": 1
+  }
+]

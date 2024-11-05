@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "672873531969a6131ca57aa1",
+    "name": "Pilot Marker Broad Blue",
+    "description": "A broad blue marker ideal for writing and drawing.",
+    "price": 1.99,
+    "discountPrice": null,
+    "subcategory": "6723712e9778bb08a58eb2e1",
+    "stockQuantity": 100,
+    "sku": "PMBB001",
+    "imageUrl": "http://example.com/images/pilot_marker_broad_blue.jpg",
+    "tags": [
+      "marker",
+      "writing",
+      "blue"
+    ],
+    "createdAt": "2024-11-04T07:10:11.368Z",
+    "updatedAt": "2024-11-04T07:10:11.370Z",
+    "__v": 0
+  }
+]
