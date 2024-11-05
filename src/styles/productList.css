@@ -1,0 +1,36 @@
+/* Add this to your CSS file or style tag */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-family: Arial, sans-serif; /* Set a clean font */
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ccc;
+}
+
+th {
+    background-color: #f4f4f4; /* Light grey for header */
+    font-weight: bold; /* Bold text for headers */
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9; /* Light background for even rows */
+}
+
+tr:hover {
+    background-color: #eaeaea; /* Highlight row on hover */
+}
+
+h2 {
+    text-align: center; /* Center align the heading */
+    color: #333; /* Dark color for better visibility */
+}
+
+p {
+    text-align: center; /* Center align any paragraph text */
+    color: #666; /* Lighter color for fallback messages */
+}
